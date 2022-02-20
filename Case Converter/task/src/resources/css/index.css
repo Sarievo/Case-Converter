@@ -1,0 +1,15 @@
+.title { margin-left: 10%; }
+#input-area {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+    height: 400px;
+}
+
+#button-container {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
+button { color: white; background-color: coral; }
+
